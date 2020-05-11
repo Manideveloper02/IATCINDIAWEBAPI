@@ -50,7 +50,6 @@ namespace IATCINDIAWEBAPI
             app.UseHttpsRedirection();
             app.UseRouting();
             app.UseAuthorization();
-            // specifying the Swagger JSON endpoint.
             app.UseMiddleware<BasicAuthenticationMiddleware>();
             app.UseEndpoints(endpoints =>
             {

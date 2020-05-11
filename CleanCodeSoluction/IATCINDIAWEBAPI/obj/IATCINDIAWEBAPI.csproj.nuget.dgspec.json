@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CleanCodeSoluction\\IATCINDIAWEBAPI\\IATCINDIAWEBAPI.csproj": {}
+    "D:\\Projects\\IATCINDIAWEBAPI\\CleanCodeSoluction\\IATCINDIAWEBAPI\\IATCINDIAWEBAPI.csproj": {}
   },
   "projects": {
-    "D:\\CleanCodeSoluction\\IATCINDIAWEBAPI\\IATCINDIAWEBAPI.csproj": {
+    "D:\\Projects\\IATCINDIAWEBAPI\\CleanCodeSoluction\\IATCINDIAWEBAPI\\IATCINDIAWEBAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CleanCodeSoluction\\IATCINDIAWEBAPI\\IATCINDIAWEBAPI.csproj",
+        "projectUniqueName": "D:\\Projects\\IATCINDIAWEBAPI\\CleanCodeSoluction\\IATCINDIAWEBAPI\\IATCINDIAWEBAPI.csproj",
         "projectName": "IATCINDIAWEBAPI",
-        "projectPath": "D:\\CleanCodeSoluction\\IATCINDIAWEBAPI\\IATCINDIAWEBAPI.csproj",
+        "projectPath": "D:\\Projects\\IATCINDIAWEBAPI\\CleanCodeSoluction\\IATCINDIAWEBAPI\\IATCINDIAWEBAPI.csproj",
         "packagesPath": "C:\\Users\\Mani\\.nuget\\packages\\",
-        "outputPath": "D:\\CleanCodeSoluction\\IATCINDIAWEBAPI\\obj\\",
+        "outputPath": "D:\\Projects\\IATCINDIAWEBAPI\\CleanCodeSoluction\\IATCINDIAWEBAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mani\\AppData\\Roaming\\NuGet\\NuGet.Config",
