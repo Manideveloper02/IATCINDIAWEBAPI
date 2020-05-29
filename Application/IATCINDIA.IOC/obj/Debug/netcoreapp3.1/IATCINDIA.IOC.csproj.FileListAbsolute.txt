@@ -1,0 +1,16 @@
+D:\Projects\IATC\Application\IATCINDIA.IOC\bin\Debug\netcoreapp3.1\IATCINDIA.IOC.deps.json
+D:\Projects\IATC\Application\IATCINDIA.IOC\bin\Debug\netcoreapp3.1\IATCINDIA.IOC.dll
+D:\Projects\IATC\Application\IATCINDIA.IOC\obj\Debug\netcoreapp3.1\IATCINDIA.IOC.csprojAssemblyReference.cache
+D:\Projects\IATC\Application\IATCINDIA.IOC\obj\Debug\netcoreapp3.1\IATCINDIA.IOC.AssemblyInfoInputs.cache
+D:\Projects\IATC\Application\IATCINDIA.IOC\obj\Debug\netcoreapp3.1\IATCINDIA.IOC.AssemblyInfo.cs
+D:\Projects\IATC\Application\IATCINDIA.IOC\bin\Debug\netcoreapp3.1\IATCINDIA.IOC.pdb
+D:\Projects\IATC\Application\IATCINDIA.IOC\bin\Debug\netcoreapp3.1\IATCINDIA.APPLICATION.dll
+D:\Projects\IATC\Application\IATCINDIA.IOC\bin\Debug\netcoreapp3.1\IATCINDIA.DATA.dll
+D:\Projects\IATC\Application\IATCINDIA.IOC\bin\Debug\netcoreapp3.1\IATCINDIA.DOMAIN.dll
+D:\Projects\IATC\Application\IATCINDIA.IOC\bin\Debug\netcoreapp3.1\IATCINDIA.DATA.pdb
+D:\Projects\IATC\Application\IATCINDIA.IOC\bin\Debug\netcoreapp3.1\IATCINDIA.APPLICATION.pdb
+D:\Projects\IATC\Application\IATCINDIA.IOC\bin\Debug\netcoreapp3.1\IATCINDIA.DOMAIN.pdb
+D:\Projects\IATC\Application\IATCINDIA.IOC\obj\Debug\netcoreapp3.1\IATCINDIA.IOC.csproj.CoreCompileInputs.cache
+D:\Projects\IATC\Application\IATCINDIA.IOC\obj\Debug\netcoreapp3.1\IATCINDIA.IOC.csproj.CopyComplete
+D:\Projects\IATC\Application\IATCINDIA.IOC\obj\Debug\netcoreapp3.1\IATCINDIA.IOC.dll
+D:\Projects\IATC\Application\IATCINDIA.IOC\obj\Debug\netcoreapp3.1\IATCINDIA.IOC.pdb
