@@ -39,5 +39,13 @@ namespace IATCINDIAWEBAPI.Controllers
 
         }
 
+        [HttpGet("get")]
+        public async Task<List<TEntity>> GetSpvalue()
+        {
+            var member = await repository.GetSpValue();
+            return member;
+
+        }
+
     }
 }

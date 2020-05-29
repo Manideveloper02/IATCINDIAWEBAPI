@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Data;
 using System.Threading.Tasks;
 
 namespace IATCINDIAWEBAPI.Data
@@ -7,6 +8,8 @@ namespace IATCINDIAWEBAPI.Data
     {
         Task<List<T>> GetAll();
         Task<T> Get(int id);
+
+         Task<List<T>> GetSpValue();
 
     }
 }

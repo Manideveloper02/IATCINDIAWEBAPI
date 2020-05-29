@@ -22,6 +22,8 @@ namespace IATCINDIAWEBAPI.Models
         public virtual DbSet<IatcindiaMMemberdetails> IatcindiaMMemberdetails { get; set; }
         public virtual DbSet<IatcindiaMScientificAbstractSubmission> IatcindiaMScientificAbstractSubmission { get; set; }
 
+        public virtual DbSet<TestSp> SP_reslutclass { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
@@ -507,6 +509,10 @@ namespace IATCINDIAWEBAPI.Models
                     .IsUnicode(false);
             });
 
+            modelBuilder.Entity<TestSp>(entity =>
+            {
+                entity.HasNoKey();
+            });
 
             OnModelCreatingPartial(modelBuilder);
         }

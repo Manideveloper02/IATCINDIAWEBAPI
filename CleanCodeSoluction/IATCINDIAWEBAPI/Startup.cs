@@ -1,3 +1,4 @@
+using IATCINDIAWEBAPI.Controllers;
 using IATCINDIAWEBAPI.Data.EFCore;
 using IATCINDIAWEBAPI.Middleware;
 using IATCINDIAWEBAPI.Models;
@@ -25,12 +26,14 @@ namespace IATCINDIAWEBAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<IatcindiaContext>(options => options.UseSqlServer(Configuration.GetConnectionString("iatcconnection")));
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "IATCINDIAWEBAPI", Version = "v1" });
             });
             services.AddScoped<EFCoreIatcMemberRepository>();
+            services.AddScoped<EFCoreTestRepository>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -50,7 +53,7 @@ namespace IATCINDIAWEBAPI
             app.UseHttpsRedirection();
             app.UseRouting();
             app.UseAuthorization();
-            app.UseMiddleware<BasicAuthenticationMiddleware>();
+            //app.UseMiddleware<BasicAuthenticationMiddleware>();
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
