@@ -6,3 +6,12 @@ D:\Projects\IATC\Application\IATCINDIA.DOMAIN\obj\Debug\netcoreapp3.1\IATCINDIA.
 D:\Projects\IATC\Application\IATCINDIA.DOMAIN\obj\Debug\netcoreapp3.1\IATCINDIA.DOMAIN.AssemblyInfo.cs
 D:\Projects\IATC\Application\IATCINDIA.DOMAIN\obj\Debug\netcoreapp3.1\IATCINDIA.DOMAIN.dll
 D:\Projects\IATC\Application\IATCINDIA.DOMAIN\obj\Debug\netcoreapp3.1\IATCINDIA.DOMAIN.pdb
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.DOMAIN\bin\Debug\netcoreapp3.1\IATCINDIA.DOMAIN.deps.json
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.DOMAIN\bin\Debug\netcoreapp3.1\IATCINDIA.DOMAIN.dll
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.DOMAIN\bin\Debug\netcoreapp3.1\IATCINDIA.DOMAIN.pdb
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.DOMAIN\obj\Debug\netcoreapp3.1\IATCINDIA.DOMAIN.csprojAssemblyReference.cache
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.DOMAIN\obj\Debug\netcoreapp3.1\IATCINDIA.DOMAIN.csproj.CoreCompileInputs.cache
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.DOMAIN\obj\Debug\netcoreapp3.1\IATCINDIA.DOMAIN.AssemblyInfoInputs.cache
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.DOMAIN\obj\Debug\netcoreapp3.1\IATCINDIA.DOMAIN.AssemblyInfo.cs
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.DOMAIN\obj\Debug\netcoreapp3.1\IATCINDIA.DOMAIN.dll
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.DOMAIN\obj\Debug\netcoreapp3.1\IATCINDIA.DOMAIN.pdb

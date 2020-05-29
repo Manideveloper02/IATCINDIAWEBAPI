@@ -9,3 +9,15 @@ D:\Projects\IATC\Application\IATCINDIA.APPLICATION\bin\Debug\netcoreapp3.1\IATCI
 D:\Projects\IATC\Application\IATCINDIA.APPLICATION\obj\Debug\netcoreapp3.1\IATCINDIA.APPLICATION.csproj.CoreCompileInputs.cache
 D:\Projects\IATC\Application\IATCINDIA.APPLICATION\obj\Debug\netcoreapp3.1\IATCINDIA.APPLICATION.dll
 D:\Projects\IATC\Application\IATCINDIA.APPLICATION\obj\Debug\netcoreapp3.1\IATCINDIA.APPLICATION.pdb
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.APPLICATION\bin\Debug\netcoreapp3.1\IATCINDIA.APPLICATION.deps.json
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.APPLICATION\bin\Debug\netcoreapp3.1\IATCINDIA.APPLICATION.runtimeconfig.json
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.APPLICATION\bin\Debug\netcoreapp3.1\IATCINDIA.APPLICATION.runtimeconfig.dev.json
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.APPLICATION\bin\Debug\netcoreapp3.1\IATCINDIA.APPLICATION.dll
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.APPLICATION\bin\Debug\netcoreapp3.1\IATCINDIA.APPLICATION.pdb
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.APPLICATION\obj\Debug\netcoreapp3.1\IATCINDIA.APPLICATION.csprojAssemblyReference.cache
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.APPLICATION\obj\Debug\netcoreapp3.1\IATCINDIA.APPLICATION.csproj.CoreCompileInputs.cache
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.APPLICATION\obj\Debug\netcoreapp3.1\IATCINDIA.APPLICATION.AssemblyInfoInputs.cache
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.APPLICATION\obj\Debug\netcoreapp3.1\IATCINDIA.APPLICATION.AssemblyInfo.cs
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.APPLICATION\obj\Debug\netcoreapp3.1\IATCINDIA.APPLICATION.dll
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.APPLICATION\obj\Debug\netcoreapp3.1\IATCINDIA.APPLICATION.pdb
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.APPLICATION\obj\Debug\netcoreapp3.1\IATCINDIA.APPLICATION.genruntimeconfig.cache

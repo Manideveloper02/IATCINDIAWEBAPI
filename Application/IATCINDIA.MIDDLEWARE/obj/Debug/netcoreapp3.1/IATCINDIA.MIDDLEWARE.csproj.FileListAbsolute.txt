@@ -6,3 +6,12 @@ D:\Projects\IATC\Application\IATCINDIA.MIDDLEWARE\bin\Debug\netcoreapp3.1\IATCIN
 D:\Projects\IATC\Application\IATCINDIA.MIDDLEWARE\obj\Debug\netcoreapp3.1\IATCINDIA.MIDDLEWARE.csproj.CoreCompileInputs.cache
 D:\Projects\IATC\Application\IATCINDIA.MIDDLEWARE\obj\Debug\netcoreapp3.1\IATCINDIA.MIDDLEWARE.dll
 D:\Projects\IATC\Application\IATCINDIA.MIDDLEWARE\obj\Debug\netcoreapp3.1\IATCINDIA.MIDDLEWARE.pdb
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.MIDDLEWARE\bin\Debug\netcoreapp3.1\IATCINDIA.MIDDLEWARE.deps.json
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.MIDDLEWARE\bin\Debug\netcoreapp3.1\IATCINDIA.MIDDLEWARE.dll
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.MIDDLEWARE\bin\Debug\netcoreapp3.1\IATCINDIA.MIDDLEWARE.pdb
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.MIDDLEWARE\obj\Debug\netcoreapp3.1\IATCINDIA.MIDDLEWARE.csprojAssemblyReference.cache
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.MIDDLEWARE\obj\Debug\netcoreapp3.1\IATCINDIA.MIDDLEWARE.csproj.CoreCompileInputs.cache
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.MIDDLEWARE\obj\Debug\netcoreapp3.1\IATCINDIA.MIDDLEWARE.AssemblyInfoInputs.cache
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.MIDDLEWARE\obj\Debug\netcoreapp3.1\IATCINDIA.MIDDLEWARE.AssemblyInfo.cs
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.MIDDLEWARE\obj\Debug\netcoreapp3.1\IATCINDIA.MIDDLEWARE.dll
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.MIDDLEWARE\obj\Debug\netcoreapp3.1\IATCINDIA.MIDDLEWARE.pdb

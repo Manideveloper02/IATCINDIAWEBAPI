@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VjWzGlNPm89G7ErKdR8cRVd1tZZ4MVCYCu7xZZPbs4IhcBSw0bq4ZAFR7sMG29GRbkuSGWjjQ9VOKy5zu8EzpQ==",
+  "dgSpecHash": "KzjccOnw79Sly0rIaBm5nbwpstA6HbXKjVcWh/EPZBuH58eqe0chYhtZ1Wfe1e66EEQ+6epChhlYkEDcpVKyeg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\IATC\\Application\\IATCINDIA.DOMAIN\\IATCINDIA.DOMAIN.csproj",
+  "projectFilePath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.DOMAIN\\IATCINDIA.DOMAIN.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
