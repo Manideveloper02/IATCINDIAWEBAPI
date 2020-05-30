@@ -1,9 +1,8 @@
 ﻿using IATCINDIA.APPLICATION.DomainModels;
 using IATCINDIA.DATA.Repository;
-using IATCINDIA.DOMAIN.Interface;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using System.Data;
+using Newtonsoft.Json;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace IATCINDIA.API.Controller
@@ -17,13 +16,14 @@ namespace IATCINDIA.API.Controller
         }
 
         [HttpGet("GetValueFromSp")]
-        public string GetValueFromSp()
+        public ActionResult<IEnumerable<Department>> GetValueFromSp()
         {
-
-            DataSet ds = new DataSet();
-            GetSpRepository getSp = new GetSpRepository( );
-            ds = getSp.GetTs();
-            return "stored-procedure Executed";
+            SPRepository getSp = new SPRepository();
+            var dictionary = new Dictionary<string, object> { { "@Id", 1 } };
+            var getDepartments = getSp.ExecuteQuery("GetDepartment", dictionary);
+            string JSONString = JsonConvert.SerializeObject(getDepartments.Tables[0]);
+            List<Department> bsObj = JsonConvert.DeserializeObject<List<Department>>(JSONString);
+            return bsObj;
 
 
         }

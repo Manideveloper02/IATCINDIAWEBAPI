@@ -1,30 +1,31 @@
 ﻿using IATCINDIA.DOMAIN.Interface;
 using Microsoft.Data.SqlClient;
+using System.Collections.Generic;
 using System.Data;
 
 namespace IATCINDIA.DATA.Repository
 {
-    public class GetSpRepository : IGetSpRepository
-    {
 
-        public DataSet GetTs()
+    public class SPRepository : ISPRepository
+    {
+        public DataSet ExecuteQuery(string spQuery, Dictionary<string, object> parameters)
         {
-            SqlConnection con = new SqlConnection("Data Source = 43.255.152.25; Initial Catalog = IATC_INDIA; User ID = IATC_INDIA; Password=IATC_INDIA@03");
-            SqlCommand cmd = new SqlCommand();
+            using SqlConnection con = new SqlConnection("Data Source = 43.255.152.25; Initial Catalog = IATC_INDIA; User ID = IATC_INDIA; Password=IATC_INDIA@03");
             con.Open();
-            cmd = new SqlCommand("GetDepartment", con)
+            using SqlCommand cmd = con.CreateCommand();
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.CommandText = spQuery;
+            foreach (var parm in parameters)
             {
-                CommandType = CommandType.StoredProcedure
-            };
-            cmd.Parameters.AddWithValue("@id", "1");
-            SqlDataAdapter daview = new SqlDataAdapter(cmd);
+                cmd.Parameters.AddWithValue(parm.Key, parm.Value.ToString());
+            }
+            using SqlDataAdapter daview = new SqlDataAdapter(cmd);
             DataSet dsview = new DataSet();
             daview.Fill(dsview);
-            if (dsview.Tables.Count > 0)
-            {
-            }
             con.Close();
             return dsview;
         }
+
+
     }
 }

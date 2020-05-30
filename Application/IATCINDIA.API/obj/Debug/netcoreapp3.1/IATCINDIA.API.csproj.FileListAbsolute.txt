@@ -312,9 +312,6 @@ D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.API\bin\Debug\netcoreapp3.1\IA
 D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.API\bin\Debug\netcoreapp3.1\IATCINDIA.DATA.pdb
 D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.API\bin\Debug\netcoreapp3.1\IATCINDIA.DOMAIN.pdb
 D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.API\obj\Debug\netcoreapp3.1\IATCINDIA.API.csprojAssemblyReference.cache
-D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.API\obj\Debug\netcoreapp3.1\IATCINDIA.API.csproj.CoreCompileInputs.cache
-D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.API\obj\Debug\netcoreapp3.1\IATCINDIA.API.MvcApplicationPartsAssemblyInfo.cs
-D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.API\obj\Debug\netcoreapp3.1\IATCINDIA.API.MvcApplicationPartsAssemblyInfo.cache
 D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.API\obj\Debug\netcoreapp3.1\IATCINDIA.API.AssemblyInfoInputs.cache
 D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.API\obj\Debug\netcoreapp3.1\IATCINDIA.API.AssemblyInfo.cs
 D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.API\obj\Debug\netcoreapp3.1\IATCINDIA.API.RazorTargetAssemblyInfo.cache
@@ -324,3 +321,6 @@ D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.API\obj\Debug\netcoreapp3.1\st
 D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.API\obj\Debug\netcoreapp3.1\IATCINDIA.API.dll
 D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.API\obj\Debug\netcoreapp3.1\IATCINDIA.API.pdb
 D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.API\obj\Debug\netcoreapp3.1\IATCINDIA.API.genruntimeconfig.cache
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.API\obj\Debug\netcoreapp3.1\IATCINDIA.API.csproj.CoreCompileInputs.cache
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.API\obj\Debug\netcoreapp3.1\IATCINDIA.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\IATCINDIAWEBAPI\Application\IATCINDIA.API\obj\Debug\netcoreapp3.1\IATCINDIA.API.MvcApplicationPartsAssemblyInfo.cache

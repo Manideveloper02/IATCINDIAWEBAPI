@@ -1786,7 +1786,6 @@
       },
       "IATCINDIA.DATA/1.0.0": {
         "dependencies": {
-          "IATCINDIA.APPLICATION": "1.0.0",
           "IATCINDIA.DOMAIN": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.4",
           "System.Configuration.ConfigurationManager": "4.7.0"
@@ -1796,6 +1795,9 @@
         }
       },
       "IATCINDIA.DOMAIN/1.0.0": {
+        "dependencies": {
+          "IATCINDIA.APPLICATION": "1.0.0"
+        },
         "runtime": {
           "IATCINDIA.DOMAIN.dll": {}
         }

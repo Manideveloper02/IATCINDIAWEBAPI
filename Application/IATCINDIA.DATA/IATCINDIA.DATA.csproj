@@ -10,7 +10,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\IATCINDIA.APPLICATION\IATCINDIA.APPLICATION.csproj" />
     <ProjectReference Include="..\IATCINDIA.DOMAIN\IATCINDIA.DOMAIN.csproj" />
   </ItemGroup>
 
