@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.MIDDLEWARE\\IATCINDIA.MIDDLEWARE.csproj": {}
+    "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.MIDDLEWARE\\IATCINDIA.MIDDLEWARE.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.MIDDLEWARE\\IATCINDIA.MIDDLEWARE.csproj": {
+    "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.MIDDLEWARE\\IATCINDIA.MIDDLEWARE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.MIDDLEWARE\\IATCINDIA.MIDDLEWARE.csproj",
+        "projectUniqueName": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.MIDDLEWARE\\IATCINDIA.MIDDLEWARE.csproj",
         "projectName": "IATCINDIA.MIDDLEWARE",
-        "projectPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.MIDDLEWARE\\IATCINDIA.MIDDLEWARE.csproj",
+        "projectPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.MIDDLEWARE\\IATCINDIA.MIDDLEWARE.csproj",
         "packagesPath": "C:\\Users\\Mani\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.MIDDLEWARE\\obj\\",
+        "outputPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.MIDDLEWARE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mani\\AppData\\Roaming\\NuGet\\NuGet.Config",

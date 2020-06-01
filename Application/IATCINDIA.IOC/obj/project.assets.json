@@ -8409,11 +8409,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.IOC\\IATCINDIA.IOC.csproj",
+      "projectUniqueName": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.IOC\\IATCINDIA.IOC.csproj",
       "projectName": "IATCINDIA.IOC",
-      "projectPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.IOC\\IATCINDIA.IOC.csproj",
+      "projectPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.IOC\\IATCINDIA.IOC.csproj",
       "packagesPath": "C:\\Users\\Mani\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.IOC\\obj\\",
+      "outputPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.IOC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mani\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8429,8 +8429,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.DATA\\IATCINDIA.DATA.csproj": {
-              "projectPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.DATA\\IATCINDIA.DATA.csproj"
+            "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.DATA\\IATCINDIA.DATA.csproj": {
+              "projectPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.DATA\\IATCINDIA.DATA.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj": {}
+    "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj": {
+    "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj",
+        "projectUniqueName": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj",
         "projectName": "IATCINDIA.APPLICATION",
-        "projectPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj",
+        "projectPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj",
         "packagesPath": "C:\\Users\\Mani\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.APPLICATION\\obj\\",
+        "outputPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.APPLICATION\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mani\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0YC0mtlWZbxHXf3Y5viM6tvfNRaoIJ5tCzb78gV1VsZ9c4HxlxL4625/VTIlYhGEHd+JpCCWZpHp7c26CLS89Q==",
+  "dgSpecHash": "CKxxK2CxmNwbOqEJDOhVSo7PusAj9SpsznUILyzmQwKwFwlgc/MCoDQ9oJ1EdjFg/edi7uP2yKwPkiQxCb5oVA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.DATA\\IATCINDIA.DATA.csproj",
+  "projectFilePath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.DATA\\IATCINDIA.DATA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mani\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Mani\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
