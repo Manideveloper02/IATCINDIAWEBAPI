@@ -5,6 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ViewModels\**" />
+    <EmbeddedResource Remove="ViewModels\**" />
+    <None Remove="ViewModels\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.4">
       <PrivateAssets>all</PrivateAssets>
@@ -20,8 +26,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="SPModels\" />
-    <Folder Include="ViewModels\" />
+    <Folder Include="CommonServices\Interface\" />
   </ItemGroup>
 
 </Project>
