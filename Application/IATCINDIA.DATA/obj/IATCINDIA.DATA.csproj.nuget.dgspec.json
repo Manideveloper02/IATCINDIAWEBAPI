@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.DATA\\IATCINDIA.DATA.csproj": {}
+    "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.DATA\\IATCINDIA.DATA.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj": {
+    "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj",
+        "projectUniqueName": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj",
         "projectName": "IATCINDIA.APPLICATION",
-        "projectPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj",
+        "projectPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj",
         "packagesPath": "C:\\Users\\Mani\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.APPLICATION\\obj\\",
+        "outputPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.APPLICATION\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mani\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -82,18 +84,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.DATA\\IATCINDIA.DATA.csproj": {
+    "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.DATA\\IATCINDIA.DATA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.DATA\\IATCINDIA.DATA.csproj",
+        "projectUniqueName": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.DATA\\IATCINDIA.DATA.csproj",
         "projectName": "IATCINDIA.DATA",
-        "projectPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.DATA\\IATCINDIA.DATA.csproj",
+        "projectPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.DATA\\IATCINDIA.DATA.csproj",
         "packagesPath": "C:\\Users\\Mani\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.DATA\\obj\\",
+        "outputPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.DATA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mani\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -108,9 +110,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.DOMAIN\\IATCINDIA.DOMAIN.csproj": {
-                "projectPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.DOMAIN\\IATCINDIA.DOMAIN.csproj"
+              "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.DOMAIN\\IATCINDIA.DOMAIN.csproj": {
+                "projectPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.DOMAIN\\IATCINDIA.DOMAIN.csproj"
               }
             }
           }
@@ -123,6 +126,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -148,18 +152,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.DOMAIN\\IATCINDIA.DOMAIN.csproj": {
+    "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.DOMAIN\\IATCINDIA.DOMAIN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.DOMAIN\\IATCINDIA.DOMAIN.csproj",
+        "projectUniqueName": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.DOMAIN\\IATCINDIA.DOMAIN.csproj",
         "projectName": "IATCINDIA.DOMAIN",
-        "projectPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.DOMAIN\\IATCINDIA.DOMAIN.csproj",
+        "projectPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.DOMAIN\\IATCINDIA.DOMAIN.csproj",
         "packagesPath": "C:\\Users\\Mani\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.DOMAIN\\obj\\",
+        "outputPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.DOMAIN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mani\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -174,9 +178,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj": {
-                "projectPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj"
+              "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj": {
+                "projectPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj"
               }
             }
           }
@@ -189,6 +194,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -204,7 +210,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,6 +1,8 @@
 ﻿using IATCINDIA.APPLICATION.CommonServices.Class;
 using IATCINDIA.APPLICATION.DomainModels;
 using IATCINDIA.DATA.Repository;
+
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 

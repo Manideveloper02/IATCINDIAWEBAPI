@@ -8197,11 +8197,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.DOMAIN\\IATCINDIA.DOMAIN.csproj",
+      "projectUniqueName": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.DOMAIN\\IATCINDIA.DOMAIN.csproj",
       "projectName": "IATCINDIA.DOMAIN",
-      "projectPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.DOMAIN\\IATCINDIA.DOMAIN.csproj",
+      "projectPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.DOMAIN\\IATCINDIA.DOMAIN.csproj",
       "packagesPath": "C:\\Users\\Mani\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.DOMAIN\\obj\\",
+      "outputPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.DOMAIN\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mani\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8216,9 +8216,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj": {
-              "projectPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj"
+            "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj": {
+              "projectPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.APPLICATION\\IATCINDIA.APPLICATION.csproj"
             }
           }
         }
@@ -8231,6 +8232,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -8246,7 +8248,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

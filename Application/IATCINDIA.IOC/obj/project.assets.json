@@ -8409,11 +8409,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.IOC\\IATCINDIA.IOC.csproj",
+      "projectUniqueName": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.IOC\\IATCINDIA.IOC.csproj",
       "projectName": "IATCINDIA.IOC",
-      "projectPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.IOC\\IATCINDIA.IOC.csproj",
+      "projectPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.IOC\\IATCINDIA.IOC.csproj",
       "packagesPath": "C:\\Users\\Mani\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.IOC\\obj\\",
+      "outputPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.IOC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mani\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8428,9 +8428,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.DATA\\IATCINDIA.DATA.csproj": {
-              "projectPath": "D:\\Projects\\IATCINDIAWEBAPP\\Application\\IATCINDIA.DATA\\IATCINDIA.DATA.csproj"
+            "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.DATA\\IATCINDIA.DATA.csproj": {
+              "projectPath": "D:\\Projects\\IATCINDIAWEBAPI\\Application\\IATCINDIA.DATA\\IATCINDIA.DATA.csproj"
             }
           }
         }
@@ -8443,6 +8444,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": {
             "target": "Package",
@@ -8464,7 +8466,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

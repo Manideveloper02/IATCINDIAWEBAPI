@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.11" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.4">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -23,6 +24,7 @@
   <ItemGroup>
     <ProjectReference Include="..\IATCINDIA.APPLICATION\IATCINDIA.APPLICATION.csproj" />
     <ProjectReference Include="..\IATCINDIA.IOC\IATCINDIA.IOC.csproj" />
+    <ProjectReference Include="..\IATCINDIA.MIDDLEWARE\IATCINDIA.MIDDLEWARE.csproj" />
   </ItemGroup>
 
 </Project>
